@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_bill_list"
+        android:icon="@drawable/ic_bill"
+        android:title="@string/bill">
+    </item>
+
+    <item
+        android:id="@+id/item_maintenance_list"
+        android:icon="@drawable/ic_maintenance"
+        android:title="@string/maintenance_record">
+    </item>
+</menu>
