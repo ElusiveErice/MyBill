@@ -195,6 +195,4 @@ public class MyBillActivity extends AppCompatActivity {
         book.close();
         Log.i(TAG, "写完成");
     }
-
-
 }
