@@ -38,7 +38,7 @@ public class BillRankLab {
                 .getWritableDatabase();
     }
 
-    private List<BillRank> getBillRanks(){
+    public List<BillRank> getBillRanks(){
         List<BillRank> billRanks = new ArrayList<>();
 
         BillCursorWrapper cursor = queryBills(null, null);

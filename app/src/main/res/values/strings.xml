@@ -40,4 +40,7 @@
     <string name="maintenance_detail_info">维修详情</string>
     <string name="new_bill">新增一项</string>
     <string name="bill">账单</string>
+    <string name="open">打开主页</string>
+    <string name="import_data">导入数据</string>
+    <string name="output_data">导出数据</string>
 </resources>
